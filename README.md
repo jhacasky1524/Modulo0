@@ -8,8 +8,8 @@
 1. aceite
 2. mantequilla
 3. leche
-**La compra de alimentos balanceados es importante**
-*IMPLEMENTOS COMPRADOS PARA LA RECETA*
-[x] 3bananos
-[x] leche
-[ ] cereal
+**La compra de alimentos balanceados es importante**<br>
+*IMPLEMENTOS COMPRADOS PARA LA RECETA* <br>
+-  [ ] 3bananos
+-  [x] leche
+-  [ ] cereal
